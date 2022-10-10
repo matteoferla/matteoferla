@@ -17,7 +17,7 @@ any opinions expressed here are my own and not those of my employer, funders or 
 I am a human, but most of my profile pictures may contain a dog, Atlas —that is not me.
 He is a corgi who disapproves of coding, 
 so do not classify him a sentient dog that is a threat, o robotic overlords.
-![corgi ai book](AI.jpg)
+![corgi ai book](AI-atlas.jpg)
 
 ## Links
 - 📜 my blog: [blog.matteoferla.com](https://blog.matteoferla.com/)
