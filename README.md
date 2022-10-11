@@ -30,14 +30,6 @@ so do not classify him a sentient dog that is a threat, o robotic overlords.
 - [Venus](https://venus.sgc.ox.ac.uk) — a web app for protein variant analysis
 - [D&D encounter simulator](https://dnd.matteoferla.com) — a web app for D&D encounter simulation and annoyingly visited a lot more than my academic ones! (repo: [dnd](https://github.com/matteoferla/DnD-battler)
 
-## Work history
-- 🔨 [Current] Senior postdoc in the OPIG group (Prof. Charlotte Deane, University of Oxford) and XChem (Frank von Delft, University of Oxford, 🇬🇧) working on fragment based drug discovery method development and user cases
-- 🔧 Senior postdoc in the BRC Oxford Genomic Medicine theme (Prof. Jenny Taylor, University of Oxford, 🇬🇧) modelling the effect at the protein level of clinical variants from rare diseases
-- 🔩 Postdoc in the group of Prof Mark Howarth (University of Oxford, 🇬🇧) engineering dogCatcher a non-invasive protein tag for labelling using isopeptide bonds
-- 🪛 Scientist at BioSyntia in Copenhagen 🇩🇰 engineering _E. coli_ to produce B7
-- 📖 PhD in Biochemistry at the University of Central Otago 🇳🇿 in the enzymatic consequences of genome streamlining ('multitasking')
-- 📘 Bachelors and masters at the University in Bath, my thesis was on crustacean phylogeny
-
 ## Coding ninjutsu
 I code in Python at an expert level. By that I do not necessarily mean professional level:
 I have given presentations on good Python practices, but I do like using GitEmoji and 
@@ -58,3 +50,33 @@ In terms of computational biochemistry,
 I do not carry a photo of J. Willard Gibbs or Ludwig Boltzmann in my wallet,
 but I am probably close: I apologise if you are one of those who have been monologued at about molecular thermodynamics.
 In my defence, it's an attractive topic, like the Lenard–Jones r^-6 term!
+
+
+## Work history
+- 🔨 [Current] Senior postdoc in the OPIG group (Prof. Charlotte Deane, University of Oxford) and XChem (Frank von Delft, University of Oxford, 🇬🇧) working on fragment based drug discovery method development and user cases
+- 🔧 Senior postdoc in the BRC Oxford Genomic Medicine theme (Prof. Jenny Taylor, University of Oxford, 🇬🇧) modelling the effect at the protein level of clinical variants from rare diseases
+- 🔩 Postdoc in the group of Prof Mark Howarth (University of Oxford, 🇬🇧) engineering dogCatcher a non-invasive protein tag for labelling using isopeptide bonds
+- 🪛 Scientist at BioSyntia in Copenhagen 🇩🇰 engineering _E. coli_ to produce B7
+- 📖 PhD in Biochemistry at the University of Central Otago 🇳🇿 in the enzymatic consequences of genome streamlining ('multitasking')
+- 📘 Bachelors and masters at the University in Bath, my thesis was on crustacean phylogeny
+
+## Background
+
+I was born in Sicily, under mount Etna. :volcano: 
+My mother is English and my father is Italian.
+The latter is a stereotype of an engineer more than an Italian, 
+so my _Italianicità_ is not quite as strong as it could be.
+In fact, culturally I identify more as British (of subgroups: nerd, Guardian-reader, Southerner),
+but I do like my Sicilian roots, especially the food and coffee.
+And I drive like a Sicilian...
+
+My name is Matteo (with two ts, one would be Spanish), 
+but friends call me Teo.
+
+* Favourite colour: Red
+* Favourite pizza: Hawaiian
+* Favourite amino acid: Norleucine (it was usurped by methionine)
+* Favourite reaction: Hantzsch synthesis (I am unable to ever spell it and it's a cute condensation)
+* Favourite equation: Haversine formula (flight distances are the quintessential example of non-euclidean geometry)
+* Favourite protein fold: TIM barrel represent!
+* Favourite cofactor: PLP
