@@ -1,4 +1,4 @@
-I’m Matteo Ferla, a computational biochemist at the University of Oxford.
+I’m Matteo Ferla, a cheminformatician / computational biochemist at the University of Oxford.
 
 ...Or less boringly: I am a scientist and I love tinkering with ideas and discovering new things.
 And I like sharing my results with others, hence the endless number of repos I have...
